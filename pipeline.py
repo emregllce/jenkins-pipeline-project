@@ -1,0 +1,1 @@
+print("pipeline için yazdım")
