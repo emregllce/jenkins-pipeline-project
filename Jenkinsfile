@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo using shell within Jenkinsfile'
                 echo 'not using shell in the Jenkinsfile'
                 echo  "emre added this line"
+                echo  "emre added this line"
                 sh "python3 pipeline.py"
             }
         }
