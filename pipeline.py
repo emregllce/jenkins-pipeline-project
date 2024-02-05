@@ -1,1 +1,1 @@
-print("pipeline için yazdım.. poll scm")
+print("pipeline için yazdım.. poll scm2")
